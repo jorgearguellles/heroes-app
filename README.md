@@ -17,7 +17,8 @@ Made with :green_heart: using:
 
 - [React.js](https://es.reactjs.org)
 - [Bootstrap](https://getbootstrap.com/)
-- [React Router 6](https://reactrouter.com)
+- [React Router v6](https://reactrouter.com)
+- [Query Strings](https://www.npmjs.com/package/query-string)
 
 ## Demo
 
