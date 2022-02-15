@@ -1,3 +1,41 @@
+# Heroes React App - SPA
+
+This project is a Heroes App and you can:
+
+- Search Hero by name
+- Check hero details
+
+## Maker
+
+- Developed by Jorge Arias Argüelles [GitHub](https://github.com/jorgearguellles) &
+  [LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
+- Based into React: De Cero a Experto course by Fernando Herrera [GitHub](https://github.com/Klerith) & [Udemy](https://www.udemy.com/course/react-cero-experto/)
+
+## Development Technologies
+
+Made with :green_heart: using:
+
+- [React.js](https://es.reactjs.org)
+- [Bootstrap](https://getbootstrap.com/)
+- [React Router 6](https://reactrouter.com)
+
+## Demo
+
+[Create your first To do list!]()
+
+## Screenshot App
+
+![App Screenshot]()
+![App Screenshot]()
+![App Screenshot]()
+![App Screenshot]()
+
+## Feedback
+
+Open to: [@JorgeAriasArgüelles](https://www.linkedin.com/in/jorgeariasarguelles/)
+
+<hr />
+
 # ¿What we will see in this Project section?
 
 - Deep SPA ( Single Page Application )
@@ -7,13 +45,6 @@
 - Read arguments by URL
 - QueryParams
 - Apply filters by QueryStrings
-
-# Tools
-
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com/)
-- [React Router 5](https://v5.reactrouter.com/web/guides/quick-start)
-- [React Router 6](https://reactrouter.com)
 
 # Main Concept about Router
 
