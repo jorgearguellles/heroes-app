@@ -27,7 +27,6 @@ Made with :green_heart: using:
 
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/1.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/2.png)
-![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/5.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/6.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/7.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/8.png)
