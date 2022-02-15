@@ -21,19 +21,18 @@ Made with :green_heart: using:
 
 ## Demo
 
-[Create your first To do list!]()
+[Search your favorite Marvel & DC hero!]()
 
 ## Screenshot App
 
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/1.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/2.png)
-![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/3.png)
-![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/4.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/5.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/6.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/7.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/8.png)
 ![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/9.png)
+![App Screenshot](https://github.com/jorgearguellles/heroes-app/blob/main/src/screenshots/4.png)
 
 ## Feedback
 
