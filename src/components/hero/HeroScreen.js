@@ -27,7 +27,7 @@ export const HeroScreen = () => {
       <div className="col-4">
         <img 
           src={ imgPath }
-          className='img-thumbnail'
+          className='img-thumbnail animate__animated animate__fadeInLeft'
           alt={superhero}
         />
       </div>
