@@ -1,6 +1,28 @@
+import { useNavigate } from "react-router-dom";
+
+
 
 export const LoginScreen = ()=>{
+
+  const navigate = useNavigate(); // return my navigate
+
+  const handleLogin = ()=>{
+    navigate('/', {
+      replace: true
+    });
+  }
+
   return(
-    <h1>LoginScreen</h1>
+    <div className="container mt-5">
+      <h1>Login</h1>
+      <hr/>
+
+      <button 
+        className="btn btn-primary "
+        onClick={ handleLogin }
+      >
+        Login
+      </button>
+    </div>
   )
 };
