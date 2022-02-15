@@ -40,3 +40,32 @@
 - **Outlet** - A component that renders the next match in a set of matches.
 - **Index Route** - A child route with no path that renders in the parent's outlet at the parent's URL.
 - **Layout Route** - A parent route without a path, used exclusively for grouping child routes inside a specific layout.
+
+## useMemo Hook
+
+useMemo is for memorizing data, in this case we need to memorize the function call, and only call the function when the Publisher dependency update.
+
+useMemo receive two args:
+
+1. A callback with the action to do
+2. A dependencies array
+
+**Use case:**
+
+```js
+import { useMemo } from "react";
+import { HeroCard } from "./HeroCard";
+import { getHeroesByPublisher } from "../../helpers/getHeroesByPublisher";
+
+export const HeroesList = ({ publisher }) => {
+  const heroes = useMemo(() => getHeroesByPublisher(publisher), [publisher]);
+
+  return (
+    <div className="row rows-cols-1 row-cols-md-3 g-3">
+      {heroes.map((hero) => (
+        <HeroCard key={hero.id} {...hero} />
+      ))}
+    </div>
+  );
+};
+```

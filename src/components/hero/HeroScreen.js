@@ -1,3 +1,4 @@
+import { useMemo } from "react";
 import { useParams, Navigate, useNavigate } from "react-router-dom"
 import { getHeroById } from "../../helpers/getHeroById";
 
@@ -7,7 +8,7 @@ export const HeroScreen = () => {
   const navigate = useNavigate();
   const { heroId } = useParams();
 
-  const hero = getHeroById( heroId );
+  const hero = useMemo ( ()=> getHeroById( heroId ), [ heroId ] ); // Only getHeroByID called when heroId update
 
   if(!hero){
     return <Navigate to='/' />
