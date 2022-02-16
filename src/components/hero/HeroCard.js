@@ -10,7 +10,7 @@ export const HeroCard = ( { id, superhero, publisher, alter_ego, first_appearanc
   
         <div className="row no-gutters">
           <div className="col-4">
-            <img src={imgPath} alt={superhero} className='card-img'/>
+            <img src={imgPath} alt={superhero} className='card-img-top img-fluid img-thumbnail'/>
           </div>
           
           <div className="col-8">
